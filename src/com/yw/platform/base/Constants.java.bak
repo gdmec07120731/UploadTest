@@ -1,0 +1,29 @@
+package com.yw.platform.base;
+
+public class Constants {
+
+	/** log 日志的全局标记*/
+	public static final String G_TAG ="yw_sdk_"; 
+	
+	/**储存游戏的账号*/
+	public static final String YW_LOGIN_ACCOUNT = "weedong_915_account";
+	
+//	/**存储最近一次登录的用户名和密码 密码是md5加密的*/
+//	public static final String WEEDONG_915_LAST_ACCOUNT = "weedong_915_last_account";
+//	public static final String WEEDONG_915_LAST_PASSWORD = "weedong_915_last_password";
+//	
+	/** 存储是否自动登录 */
+	public static final String YW_IS_AUTO_LOGIN = "weedong_is_auto_login";
+//	
+//	/** 存储 切换账户是否重启 */
+//	public static final String WEEDONG_915_IS_RESTART_SWITCH = "weedong_is_restart_switch_account";
+//	
+//	/** 存储 是否首次向服务器发送统计数据*/
+//    public static final String WEEDONG_915_IS_UPLOAD_SERVER = "weedong_915_is_upload";
+//
+//	/**回调*/
+//	public static final String WEEDONG_CALLBACK = "weedong_callback";
+	
+	public static final String YW_INIT_APP = "yw_init_app";
+	
+}
